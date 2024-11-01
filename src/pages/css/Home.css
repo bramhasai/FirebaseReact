@@ -1,10 +1,12 @@
-div{
+.Home{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content:center;
     gap: 5rem;
 }
+
+
 
 button{
     width: 10rem;
